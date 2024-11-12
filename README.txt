@@ -11,7 +11,7 @@ index.html - The Index document for the website.
 
 
 CloudFront endpoint
-https://dgtth4dsbev06.cloudfront.net/index.html
+https://dgtth4dsbev06.cloudfront.net
 
 S3 endpoint
-http://static-web-deployment.s3-website-us-east-1.amazonaws.com/index.html
+http://static-web-deployment.s3-website-us-east-1.amazonaws.com
